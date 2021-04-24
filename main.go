@@ -45,8 +45,8 @@ func main() {
 	for {
 		//fetching cookies
 		log.Println("Fetching cookies")
-		sessionID := fetchCookies()
-
+		sessionID := GALBFLMBBNKFFECINJMMHGFC
+		
 		//logging in
 		log.Println("Logging in")
 		loginForm := url.Values{}

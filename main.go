@@ -45,7 +45,7 @@ func main() {
 	for {
 		//fetching cookies
 		log.Println("Fetching cookies")
-		sessionID := GALBFLMBBNKFFECINJMMHGFC
+		sessionID := fetchCookies()
 		
 		//logging in
 		log.Println("Logging in")
